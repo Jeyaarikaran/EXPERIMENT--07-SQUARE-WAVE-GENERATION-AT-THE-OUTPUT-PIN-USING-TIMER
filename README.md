@@ -1,4 +1,4 @@
-# EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
+![WhatsApp Image 2025-05-17 at 10 15 32_bbe22ea5](https://github.com/user-attachments/assets/e7090151-66f1-4f78-b305-b8164246977e)# EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
@@ -291,8 +291,8 @@ DUTY CYCLE = TON /(TON+TOFF)
            = 70 %
 ```
 
-![WhatsApp Image 2025-05-17 at 10 17 22_602c1668](https://github.com/user-attachments/assets/784c3eea-8aca-40e5-8db7-68461fe30cc1)
 
+![WhatsApp Image 2025-05-17 at 10 15 31_4d0b49f3](https://github.com/user-attachments/assets/371a82d1-10a3-4a6b-80ad-a31905517def)
 
 ```
 TON = 1 x 50 x 10^-6
